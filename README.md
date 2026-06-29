@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Inseong An
+# 👋안인성
 
 🎓 **B.S. Student in Computer Science**
 **Gachon University, South Korea**
