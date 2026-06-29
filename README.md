@@ -27,7 +27,6 @@
 ## 🚀 Current Projects
 
 * Medical X-ray Report Generation using BioBERT
-* Vision-Language Model Test-Time Adaptation
 * AI Agent Development
 
 ---
