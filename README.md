@@ -10,6 +10,7 @@
 ## 🏆 Achievements
 
 * 🥉 **3rd Place** – Kakao × Korea Information Science Society (KIISE) AI Agent Competition
+* LG_Aimers_8th 참여
 
 ---
 
@@ -19,7 +20,6 @@
 * 👁️ Computer Vision
 * 🤖 Artificial Intelligence
 * Vision-Language Models (VLM)
-* Test-Time Adaptation (TTA)
 * Medical AI
 
 ---
@@ -27,7 +27,8 @@
 ## 🚀 Current Projects
 
 * Medical X-ray Report Generation using BioBERT
-* AI Agent Development
+* AI Agent Development(2025 카카오 x 한국정보과학회 AI 에이전트 경진대회)
+* BicDRL-Reproduction: Deep Reinforcement Learning for Imbalanced Medical Image Classification
 
 ---
 
@@ -37,7 +38,6 @@
 
 * Python
 * Java
-* SQL
 
 ### AI / Deep Learning
 
@@ -49,13 +49,10 @@
 ### Tools
 
 * Git & GitHub
-* Linux
-* Docker
-* VMware
 
 ---
 
 ## 📫 Contact
 
-* GitHub: https://github.com/your-github-id
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/aninsung
+* Email: a3426751@gachon.ac.kr,insung4771@naver.com
