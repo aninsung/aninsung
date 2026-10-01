@@ -30,6 +30,7 @@
 * AI Agent Development(2025 카카오 x 한국정보과학회 AI 에이전트 경진대회)
 * BicDRL-Reproduction: Deep Reinforcement Learning for Imbalanced Medical Image Classification
 * 가천대 컴퓨터 공학과X인공지능학과 연합학술제 연구트랙(TRIO)
+<https://aninsung.github.io/2026-summer-Interdepartmental-Academic-Conference/portfolio.html#documents>
 ---
 
 ## 🛠 Tech Stack
