@@ -11,6 +11,7 @@
 * 🥉 **3rd Place** - 가천대 컴퓨터 공학과X인공지능학과 연합학술제 연구트랙(TRIO)
 * 🥉 **3rd Place** – Kakao × Korea Information Science Society (KIISE) AI Agent Competition
 * LG_Aimers_8th 참여
+* LG_Aimers_9th 참여
 
 ---
 
